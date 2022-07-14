@@ -1,0 +1,31 @@
+creating a next.js project with tailwind css
+npx create-next-app -e with-tailwindcss insta-2-yt
+----------
+Previous gave me typescript project 
+Used this instead: https://tailwindcss.com/docs/guides/nextjs
+
+npx create-next-app insta-2-yt
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+--------
+git config --global user.name "FIRST_NAME LAST_NAME"
+git config --global user.email "MY_NAME@example.com"
+git config user.name "FIRST_NAME LAST_NAME"
+git config user.email "MY_NAME@example.com"
+git config --list --show-origin
+------------
+publich branch woeked at the end 
+---------
+NextJS --> server size rendering + built in router + framework for react (library) opinionated 
+pages folde --> 
+------------- 
+next.js with typescript instead of js 
+-----------
+cd insta-2-yt
+npm run dev
+ready - started server on 0.0.0.0:3000, url: http://localhost:3000
+------------
+ctrl + b
+ctrl + j
+--------------
+index.js
