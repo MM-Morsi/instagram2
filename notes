@@ -1,0 +1,2 @@
+creating a next.js project with tailwind css
+npx create-next-app -e with-tailwindcss insta-2-yt
